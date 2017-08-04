@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border: 0;
+    font-family: "Microsoft YaHei";
+    text-decoration: none;
+    position: relative;
+    color: #333;
+    font-size: 14px;
+    outline: none;
+}
